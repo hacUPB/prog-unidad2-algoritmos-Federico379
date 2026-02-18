@@ -1,6 +1,6 @@
 # **Ejercicio solucion de problema con algoritmo**
 
-"adjuntar ejercicios 3,4,5 en el renglon 350 aprox"
+
 
 
 
@@ -347,7 +347,38 @@ Indica si las siguientes afirmaciones describen una variable o una constante:
 4. La velocidad de la luz en el vacío, 299,792,458 m/s. Constante
 5. El radio de un círculo. Variable
 
+### Parte 3: Características de los Algoritmos
 
+Responde si los siguientes enunciados cumplen con las características de un algoritmo. Justifica la respuesta:
+
+1. Para elegir la ruta más corta entre varias ciudades, el algoritmo examina rutas candidatas, deteniéndose cuando los cambios en la distancia parecen lo suficientemente pequeños.
+*NO pues es ambiguo el contenido*
+2. Suma los números ingresados y muestra el resultado.
+*NO, tiene un mensaje claro pero no paso definidos, no se sabe cuando o como termina*
+3. Un conjunto de pasos para calcular el área de un rectángulo dado su base y altura.
+*Sí, dado que detalla pasos, es preciso y finito*
+4. El algoritmo cuenta el número de votos obtenidos por cada uno de los candidatos de una elección para presidente. Empieza solicitando el nombre del candidato y finaliza cuando se ingresa el valor -1.
+*Sí, pues es claro en suu inicio, tiene condición de fin por lo cual tiene fin  y es preciso*
+
+### Parte 4: Comprensión de Herramientas
+
+Indica si las siguientes afirmaciones son ciertas o falsas respecto al pseudocódigo y diagramas de flujo:
+
+1. El pseudocódigo utiliza símbolos estándar para representar las operaciones lógicas. *Falso*
+2. Los diagramas de flujo son una representación gráfica de un algoritmo. *Verdadero*
+3. El pseudocódigo debe estar escrito en un lenguaje de programación específico. *Flaso*
+4. Un diagrama de flujo siempre debe tener un inicio y un fin claramente definidos.   *Verdadero*
+
+### Parte 5: Estructuras de Control
+
+Describe para qué sirven las estructuras de control. Redacta dos ejemplos, uno de tu vida diaria, es decir cuando tienes que tomar decisiones en tus actividades diarias y oto ejemplo en el que se tengan que utilizar cálculos matemáticos para tomar una u otra decisión.
+    Las estructuras de control sirven para dirigir el flujo de ejecución de un algoritmo o programa. Permiten:
+
+    Tomar decisiones (condicionales: si pasa algo, hacer esto; si no, hacer otra cosa).
+
+    Repetir acciones (bucles o ciclos).
+
+    Controlar el orden en que se ejecutan las instrucciones.
 
 
 ## Ejercicio
